@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ProtonKicker
+- 👋 Hi, I’m @ProtonKicker, quiet new to Github
 - 👀 I’m interested in 3D printing and basically all tech stuff
 - 🌱 I’m currently learning Java, don't know any language yet 
 
