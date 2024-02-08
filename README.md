@@ -2,10 +2,7 @@
 - 👀 I’m interested in 3D printing and basically all tech stuff
 - 🌱 I’m currently learning Java, don't know any language yet
 - 🥰 check out my youtube if you like: https://www.youtube.com/@ToviDing
-
-
-  short intro:
-  I'm a student, 11th grade to be exact
+- 💌 contact me if you like: tdxt@aliyun.com
 
 <!---
 ProtonKicker/ProtonKicker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
