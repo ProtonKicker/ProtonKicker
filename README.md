@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Java, don't know any language yet
 - 🥰 check out my youtube if you like: https://www.youtube.com/@ToviDing
 
+  short intro:
+  I'm a student, 11th grade to be exact
+
 <!---
 ProtonKicker/ProtonKicker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
