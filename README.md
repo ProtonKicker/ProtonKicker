@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @ProtonKicker, quiet new to Github
 - 👀 I’m interested in 3D printing and basically all tech stuff
 - 🌱 I’m currently learning Java, don't know any language yet
-
 - 🥰 check out my youtube if you like: https://www.youtube.com/@ToviDing
 - 🐦 my twitter: https://twitter.com/ToviDing
-  
 - 💌 contact: tdxt@aliyun.com
 
 <!---
